@@ -32,10 +32,10 @@ This system helps reduce confusion and manual effort in tracking lost belongings
 
 This project was developed collaboratively by the following team members:
 
-- S. Sreenivas Dheeraj  
-- G. Bhavana  
-- A. Revanth Kumar  
-- M. Venkata Aashish Kumar Yadav  
+- S. Sreenivas Dheeraj  (ADD LOST ITEMS ,ADD FOUND ITEMS)
+- G. Bhavana            (VIEW LOST ITEMS , VIEW FOUND ITEMS)
+- A. Revanth Kumar      (CLAIM )
+- M. Venkata Aashish Kumar Yadav  ( SEARCH)
 
 Each member contributed to the design, development, testing, and implementation of the system.
 
